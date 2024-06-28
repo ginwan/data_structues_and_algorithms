@@ -17,6 +17,6 @@ var fibonacci = (n) => {
 console.log("Fibonacci Sequence 1: ", fibonacci(2));
 console.log("Fibonacci Sequence 2: ", fibonacci(3));
 console.log("Fibonacci Sequence 3: ", fibonacci(7));
-// console.log("Fibonacci Sequence 4: ", fibonacci(5));
+console.log("Fibonacci Sequence 4: ", fibonacci(5));
 
 // Big-O = O(n)
