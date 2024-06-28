@@ -1,4 +1,8 @@
 /** Fibonacci Sequence */
+
+//** Problem:
+// Give the number "n", find the first "n" elements of the fibonacci sequence
+
 var fibonacci = (n) => {
   const fib = [0, 1];
   for (let i = 2; i < n; i++) {
